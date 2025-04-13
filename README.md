@@ -1,7 +1,8 @@
 # Бот ВКонтакте
 
 Бот для ВКонтакте, который цитирует любое полученное сообщение.  
-Технологии: Java, Spring Boot, CallbackAPI, ngrok
+Технологии: Java, Spring Boot, CallbackAPI, ngrok.
+
 Разработан на Java с использованием Spring Boot **без сторонних VK-библиотек**, через прямую работу с [VK Bot API](https://vk.com/dev/bots_docs).
 
 ## Установка и запуск
