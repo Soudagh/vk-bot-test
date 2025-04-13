@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: vk-bot
+vk:
+  token: ${VK_ACCESS_TOKEN}
+  confirmation_code: ${VK_CONFIRMATION_CODE}
+  api_version: ${VK_API_VERSION}
